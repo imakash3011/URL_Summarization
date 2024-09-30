@@ -1,0 +1,15 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+ipykernel
+langchain_core
+streamlit
+langchain-groq
+faiss-cpu
+langchain_chroma
+langchain_huggingface
+langchain_chroma 
+validators == 0.28.1  # library for validating library
+youtube_transcript_api
+
