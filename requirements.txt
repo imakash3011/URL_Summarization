@@ -12,4 +12,5 @@ langchain_huggingface
 langchain_chroma 
 validators == 0.28.1  # library for validating library
 youtube_transcript_api
-
+pytube
+unstructured
